@@ -48,8 +48,8 @@ pwd 对应你的密码
 对应 `` ota.ini `` 文件 ``version`` 参数
 
 
- - mico_all_f86a5_1.44.4.bin
  - mico_all_6f987_1.24.14.bin
  - mico_all_a3691_1.24.5.bin
+ - mico_all_f86a5_1.44.4.bin
  - mico_all_c731c_1.52.1.bin
  - mico_all_9d15e_1.54.13.bin
