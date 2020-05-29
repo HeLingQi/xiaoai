@@ -52,3 +52,4 @@ pwd 对应你的密码
  - mico_all_6f987_1.24.14.bin
  - mico_all_a3691_1.24.5.bin
  - mico_all_c731c_1.52.1.bin
+ - mico_all_9d15e_1.54.13.bin
