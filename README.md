@@ -4,7 +4,7 @@
 
 ##### 目前程序只适用此版本（见下图）。降级请勿大版本降级，如15 降到12，小米关闭了部分接口，可能导致小爱变砖。
 
-![产品](https://p.pstatp.com/origin/2b28e00034d22d5c3cb25 "产品")
+![产品](https://p3.toutiaoimg.com/origin/2b28e00034d22d5c3cb25 "产品")
 
 
 ## #1 配置user.ini 文件 ##
